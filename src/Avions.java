@@ -24,7 +24,7 @@ public class Avions {
 		this.passatge=passatge;
 	}
 	
-	public void MostrarInformacioAvio(){
+	public void mostrarInformacioAvio(){
 		
 		
 		System.out.println("Informació de l'avio:\t");
